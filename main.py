@@ -20,3 +20,5 @@ def find_lowercase_vowel(msg: str):
     return len(msg)
 def new_function():
     print("it is working!")
+    
+new_function()
